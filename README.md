@@ -29,3 +29,5 @@ Pressing SPACE causes our virtual camera to stick to the first ball not yet abso
 If no ball is alive, the camera returns to initial position.
 
 # Result
+
+![Balls](https://user-images.githubusercontent.com/59647190/161544503-67fb32cf-7215-4d3a-9b51-64ae66228a9e.png)
